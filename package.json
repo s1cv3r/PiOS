@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "To view a list of open source Pi applications and libraries navigate to the [PiOS App List](/list.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s1cv3r/PiOS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/s1cv3r/PiOS/issues"
+  },
+  "homepage": "https://github.com/s1cv3r/PiOS#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "lucide-react": "^0.539.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.1.2"
+  }
+}
